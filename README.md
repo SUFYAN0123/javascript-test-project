@@ -1,3 +1,1 @@
 # javascript-test-project
-
-ztseryeurtu
